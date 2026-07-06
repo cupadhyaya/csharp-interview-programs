@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="01_HelloWorld/01_HelloWorld.csproj" Id="07f6ff22-5c3e-4f61-b115-74ca25e68b40" />
+  <Project Path="02_Odd_Or_Even_Number/02_Odd_Or_Even_Number.csproj" Id="4e483de1-5356-4e51-b3c1-68019c4d7156" />
+  <Project Path="03_Swap_Numbers_With_Temp/03_Swap_Numbers_With_Temp.csproj" Id="99ab05af-e2ab-4046-8da0-78251bba350a" />
+  <Project Path="04_Swap_Numbers_Without_Temp/04_Swap_Numbers_Without_Temp.csproj" Id="1686aa6e-f4eb-4604-853e-679aaeade412" />
+</Solution>
