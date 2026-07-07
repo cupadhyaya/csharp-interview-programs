@@ -5,4 +5,9 @@
   <Project Path="04_Swap_Numbers_Without_Temp/04_Swap_Numbers_Without_Temp.csproj" Id="1686aa6e-f4eb-4604-853e-679aaeade412" />
   <Project Path="05_Reverse_Number/05_Reverse_Number.csproj" Id="fd0a49d9-7e3a-4cc6-978e-f1fbfcbeb970" />
   <Project Path="06_Reverse_String/06_Reverse_String.csproj" Id="7aab5f3b-8fc8-4daf-8fec-a5089f3acbe5" />
+  <Project Path="07_Palindrome_Number/07_Palindrome_Number.csproj" Id="4697dded-0cb4-463f-ae94-2dd857bf1fd9" />
+  <Project Path="08_Palindrome_String/08_Palindrome_String.csproj" Id="38724773-28e8-40a4-ab49-4d77d9dd4ed8" />
+  <Project Path="09_Factorial_Number/09_Factorial_Number.csproj" Id="7eb8beec-96ec-4e66-9050-ed82ed7f2998" />
+  <Project Path="10_Fibonacci_Series/10_Fibonacci_Series.csproj" Id="3796792f-3122-44ce-aaf2-974484f2825c" />
+  <Project Path="11_Prime_Number/11_Prime_Number.csproj" Id="59adf0b1-fa87-4bea-8170-67fa10f8ca96" />
 </Solution>
