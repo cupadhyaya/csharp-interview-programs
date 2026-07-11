@@ -10,4 +10,10 @@
   <Project Path="09_Factorial_Number/09_Factorial_Number.csproj" Id="7eb8beec-96ec-4e66-9050-ed82ed7f2998" />
   <Project Path="10_Fibonacci_Series/10_Fibonacci_Series.csproj" Id="3796792f-3122-44ce-aaf2-974484f2825c" />
   <Project Path="11_Prime_Number/11_Prime_Number.csproj" Id="59adf0b1-fa87-4bea-8170-67fa10f8ca96" />
+  <Project Path="12_Linked_Example/12_Linked_Example.csproj" Id="7d5f9dba-eb1e-45c3-ba04-d5c0061b3f1d" />
+  <Project Path="13_LinkedList_Example/13_LinkedList_Example.csproj" Id="33486677-c673-456e-bc43-cbda79468959" />
+  <Project Path="14_Two_Sum/14_Two_Sum.csproj" Id="1fbb87ec-25ed-4021-afcf-8f213793fd5a" />
+  <Project Path="15_Bye_Sell_Profit/15_Bye_Sell_Profit.csproj" Id="f2bf2c3e-a853-4d69-a056-c62f84df97b7" />
+  <Project Path="16_Move_Zero_Last/16_Move_Zero_Last.csproj" Id="4fb735a8-0cdf-4d9b-9177-7bd5b9573baa" />
+  <Project Path="17_Remove_Dulicate/17_Remove_Dulicate.csproj" Id="51346156-235f-49aa-9a4c-c60bd90d19b3" />
 </Solution>
