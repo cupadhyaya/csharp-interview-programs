@@ -17,4 +17,5 @@
   <Project Path="16_Move_Zero_Last/16_Move_Zero_Last.csproj" Id="4fb735a8-0cdf-4d9b-9177-7bd5b9573baa" />
   <Project Path="17_Remove_Dulicate/17_Remove_Dulicate.csproj" Id="51346156-235f-49aa-9a4c-c60bd90d19b3" />
   <Project Path="18_Missing_Number/18_Missing_Number.csproj" Id="ff43899d-fba0-4c8f-ae0d-d81992179c99" />
+  <Project Path="19_Rotate_The_Array/19_Rotate_The_Array.csproj" Id="541af751-c4c0-4cfc-beba-0ff78dde7bb6" />
 </Solution>
